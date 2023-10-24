@@ -10,5 +10,5 @@ Nama alat: 4-Bar Linkage with an Extended Coupler
 - kaki-kecil
 - sendi-lengan
 
-**Mekanisme:**
+**Mekanisme:** <br/>
 ![Overview](https://github.com/avicennarl/pmm2-webcutter/blob/main/Web-cutting%20mechanism%202.gif)
