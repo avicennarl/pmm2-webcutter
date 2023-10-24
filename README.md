@@ -9,6 +9,7 @@ Nama alat: 4-Bar Linkage with an Extended Coupler
 - kaki-besar
 - kaki-kecil
 - sendi-lengan
+- penguat-base
 
 **Mekanisme:** <br/>
 <p align="center">
