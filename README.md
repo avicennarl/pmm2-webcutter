@@ -11,4 +11,6 @@ Nama alat: 4-Bar Linkage with an Extended Coupler
 - sendi-lengan
 
 **Mekanisme:** <br/>
-![Overview](https://github.com/avicennarl/pmm2-webcutter/blob/main/media/mekanisme-web-cutting.gif)
+<p align="center">
+  <img src="media/mekanisme-web-cutting.gif" alt="animasi-mekanisme" />
+</p>
